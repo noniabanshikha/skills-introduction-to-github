@@ -1,3 +1,4 @@
-<h1># daily learning</h1>
-<h2>## morning planning</h2>
-<h2>## revision</h2>
+<h1># Daily Learning</h1>
+<h2>## Morning Planning</h2>
+
+<h2>## Review</h2>
